@@ -1,0 +1,10 @@
+RENCANA KONTENT
+- Javascript
+  - Dasar
+  - Expert
+- Framework
+  - Bootstrap
+  - Codeigniter3
+  - Codeigniter4
+  - Laravel
+- SASS

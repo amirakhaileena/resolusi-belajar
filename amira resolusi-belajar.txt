@@ -1,3 +1,5 @@
 Mencoba untuk mengulang dasar dasar HTML
 mencoba mengulang dasar CSS
 mengulang dasar PHP
+mengulang framework bootstrap
+belajar codeigniter3

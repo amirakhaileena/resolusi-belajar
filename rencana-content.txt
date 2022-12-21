@@ -7,6 +7,7 @@ RENCANA KONTENT
   - Codeigniter3
   - Codeigniter4
   - Laravel
-- Framework Javascript
-  - Vue
+- Framework Javascript 
+  - Angular
   - React
+  - Vue

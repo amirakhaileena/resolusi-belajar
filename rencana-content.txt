@@ -2,11 +2,13 @@ RENCANA KONTENT
 - Javascript
   - Dasar
   - Expert
+  - ES6
 - Framework
   - Bootstrap
   - Codeigniter3
   - Codeigniter4
   - Laravel
+  - YII2
 - Framework Javascript 
   - Angular
   - React
